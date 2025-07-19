@@ -1,35 +1,73 @@
-# solestride-shop
-# SoleStride 👟
+# Welcome to your Lovable project
 
-SoleStride is a modern and responsive eCommerce shoe website designed to provide a seamless shopping experience for sneakerheads and shoe lovers. Built with performance and user experience in mind.
+## Project info
 
+**URL**: https://lovable.dev/projects/cbcb0d10-7e04-4fc6-8688-3324fd93d773
 
----
+## How can I edit this code?
 
-## 📦 Features
+There are several ways of editing your application.
 
-- 🛍️ Browse and filter shoes by category, brand, and size
-- 🔍 Product search and real-time suggestions
-- 👤 User authentication (Sign Up / Login)
-- 🛒 Add to cart, update quantity, and checkout flow
-- 💳 Payment gateway integration (e.g., Razorpay / Stripe)
-- 📱 Fully responsive (Mobile-first design)
-- 🧾 Order history and profile management
+**Use Lovable**
 
----
+Simply visit the [Lovable Project](https://lovable.dev/projects/cbcb0d10-7e04-4fc6-8688-3324fd93d773) and start prompting.
 
-## 🛠️ Tech Stack
+Changes made via Lovable will be committed automatically to this repo.
 
-| Frontend        | Backend       | Database     | Other Tools     |
-|----------------|----------------|--------------|-----------------|
-| HTML, CSS, JS   | Node.js / Express | MongoDB / Firebase | Git, GitHub, Vercel/Netlify |
-| React / Next.js | REST API       |              | Stripe / Razorpay API |
+**Use your preferred IDE**
 
----
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## 🚀 Getting Started
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/solestride-ecommerce.git
-cd solestride-ecommerce
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/cbcb0d10-7e04-4fc6-8688-3324fd93d773) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
